@@ -1,8 +1,8 @@
 //store the quotations in arrays
 quotes = [];
 authors = [];
-quotes[0] = "I don't want to earn my living; I want to live";
-authors[0] = "Oscar Wilde";
+quotes[0] = "Peace begins with a smile";
+authors[0] = "Mother Teresa";
 quotes[1] = "The trouble is you think you have time.";
 authors[1] = "Buddha";
 quotes[2] = "Life is a shipwreck, but we must not forget to sing in the lifeboats.";
@@ -15,8 +15,8 @@ quotes[5] = "Man invented language to satisfy his deep need to complain.";
 authors[5] = "Lily Tomlin";
 quotes[6] = "Better be drunk than in bad company.";
 authors[6] = "Codarren Velvindron";
-quotes[7] = "Sport is imposing order on what was chaos.";
-authors[7] = "Anthony Starr";
+quotes[7] = "Success is a lousy teacher. It seduces smart people into thinking they can't lose";
+authors[7] = "Bill Gates";
 quotes[8] = "A great writer reveals the truth even if he or she does not wish to.";
 authors[8] = "Tom Bissell";
 quotes[9] = "The journey of a thousand miles begins with one step.";

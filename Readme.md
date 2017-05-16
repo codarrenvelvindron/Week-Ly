@@ -7,8 +7,10 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://codarren.com
 
 ## Changelog
-### 1.1.2 release - Added quotes
+
+### 1.1.2 release - Added quotes & bug fix
 * A random quote will show up when clicked
+* Fix text alignment for author
 
 ### 1.1.1 pre-release - Added tooltip
 * Tooltip shows current week number

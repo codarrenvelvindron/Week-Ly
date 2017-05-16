@@ -4,7 +4,7 @@
     "description": "application title"
   },
   "appDesc": {
-    "message": "This app shows you the current Week!", 
+    "message": "This app shows you the current Week! Tooltip also shows current week, click to show a random quote", 
     "description":"Description in chrome store"
   },
   "appAction": {
