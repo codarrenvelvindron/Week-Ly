@@ -6,7 +6,12 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 
 Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-current-week/
 
+## Download
+### Firefox: https://addons.mozilla.org/en-US/firefox/addon/week-ly/?src=github
+### Chrome: https://chrome.google.com/webstore/detail/week-ly/endnddbohopbmapkpghdigekfngmjldj
+
 ## Changelog
+
 ### 1.1.3 release - Code Sanitization
 * Sanitized some parts of the code
 
