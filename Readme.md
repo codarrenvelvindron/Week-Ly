@@ -1,4 +1,4 @@
-# Week Ly
+# Week Ly - Week Number
 
 A simple Firefox Extension, designed to show you the currrent week of the year.
 
