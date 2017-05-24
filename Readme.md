@@ -11,8 +11,12 @@ Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-curr
 ### Chrome: https://chrome.google.com/webstore/detail/week-ly/endnddbohopbmapkpghdigekfngmjldj
 
 ## Changelog
-### 1.1.4 release - Updated weekly quotes
+### 1.1.5 release - Updated weekly quotes
+* Minor update Week ly quotes (WK 22)
+
+### 1.1.4 release - Updated weekly quotes + check frequency
 * Updated Week ly quotes
+* Fix Week Ly check frequency
 
 ### 1.1.3 release - Code Sanitization
 * Sanitized some parts of the code

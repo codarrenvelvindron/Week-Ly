@@ -15,6 +15,7 @@ function getWeekNumber(dateVar) {
 	return [dateVar.getFullYear(), weekNumber];
 }
 result();
+setInterval(function(){result(); },300000);
 
 function result(){
 	var result = getWeekNumber(new Date());
