@@ -13,7 +13,7 @@ Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-curr
 
 ## Changelog
 ### 1.1.8 release - Updated weekly quotes
-* Minor update Week ly quotes (WK 24)
+* Minor update Week ly quotes (WK 25)
 
 ### 1.1.7 release - Updated weekly quotes
 * Minor update Week ly quotes (WK 24)
