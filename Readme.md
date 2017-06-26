@@ -12,9 +12,9 @@ Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-curr
 ### Opera: https://addons.opera.com/en/extensions/details/week-ly-week-number
 
 ## Changelog
-### 1.2.1 release - Completely Reworked extension
+### 1.2.1 release - Completely Reworked Week Ly
 * Quotes and authors are now synchronized to external .json file
-instead of updating code
+* Weekly no longer needs to be updated.
 
 ### 1.2.0 pre-release - Added quotes in json format
 * Quotes are now retrieved from .json
