@@ -1,5 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-[logo]: https://raw.githubusercontent.com/codarrenvelvindron/Week-Ly/master/icon128.png "Week Ly"
+![alt text](https://raw.githubusercontent.com/codarrenvelvindron/Week-Ly/master/icon128.png "Week Ly")
 # Week Ly - Week Number
 [![GitHub version](https://badge.fury.io/gh/codarrenvelvindron%2FWeek-Ly.svg)](https://badge.fury.io/gh/codarrenvelvindron%2FWeek-Ly)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
