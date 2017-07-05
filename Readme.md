@@ -1,5 +1,6 @@
 # Week Ly - Week Number
 [![GitHub version](https://badge.fury.io/gh/codarrenvelvindron%2FWeek-Ly.svg)](https://badge.fury.io/gh/codarrenvelvindron%2FWeek-Ly)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple Firefox Extension, designed to show you the currrent week of the year.
 
