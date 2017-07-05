@@ -1,3 +1,4 @@
+![alt text][logo]
 [logo]: https://github.com/codarrenvelvindron/Week-Ly/raw/master/icon128.png "Week Ly"
 # Week Ly - Week Number
 [![GitHub version](https://badge.fury.io/gh/codarrenvelvindron%2FWeek-Ly.svg)](https://badge.fury.io/gh/codarrenvelvindron%2FWeek-Ly)
