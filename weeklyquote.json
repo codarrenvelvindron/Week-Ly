@@ -2,44 +2,64 @@
   "quotestore": {
     "q": [
       {
-        "quote": "Honor is simply the morality of superior men.",
-        "author": "H.L.Mencken"
+        "quote": "It's simple, if it juggles, it's fat.",
+        "author": "Arnold Schwarzenegger"
       },
       {
-        "quote": "Always make the audience suffer as much as possible.",
-        "author": "Alfred Hitchcock"
+        "quote": "There is nothing so stable as change.",
+        "author": "Bob Dylan"
       },
       {
-        "quote": "Genius is patience.",
-        "author": "Isaac Newton"
+        "quote": "A man's friendships are one of the best measures of his worth.",
+        "author": "Charles Darwin"
       },
       {
-        "quote": "We gain freedom when we have paid the full price.",
-        "author": "Rabindranath Tagore"
+        "quote": "Live life to the fullest, and focus on the positive.",
+        "author": "Matt Cameron"
       },
       {
-        "quote": "I don't initiate violence, I retaliate.",
-        "author": "Chuck Norris"
+        "quote": "Don't cry because it's over. Smile because it happened.",
+        "author": "Dr.Seuss"
       },
       {
-        "quote": "Everyone's dream can become true if you just stick to it and work hard.",
-        "author": "Serena Williams"
+        "quote": "To succeed in life, you need three things: a wishbone, a backbone and a funny bone.",
+        "author": "Reba McEntire"
       },
       {
-        "quote": "Well done is better than well said.",
-        "author": "Benjamin Franklin"
+        "quote": "My fake plants died because I did not pretend to water them.",
+        "author": "Mitch Hedberg"
       },
       {
-        "quote": "The only true wisdom is in knowing you know nothing.",
-        "author": "Socrates"
+        "quote": "Behind every great man is a woman rolling her eyes.",
+        "author": "Jim Carrey"
       },
       {
-        "quote": "If you obey all the rules you miss all the fun.",
-        "author": "Katharine Hepburn"
+        "quote": "People who think they know everything are a great annoyance to those of us who do.",
+        "author": "Isaac Asimov"
+      },
+	  {
+        "quote": "Look deep into nature, and then you will understand everything better.",
+        "author": "Albert Einstein"
+      },
+	  {
+        "quote": "Life is 10% what happens to you and 90% how you react to it.",
+        "author": "Charles R. Swindoll"
+      },
+	  {
+        "quote": "It always seems impossible, until it is done.",
+        "author": "Nelson Mandela"
+      },
+	  {
+        "quote": "Great things in business are never done by one person. They're done by a team of people.",
+        "author": "Steve Jobs"
+      },
+	  {
+        "quote": "There are no secrets to success. It is the result of preparation, hard work and learning from failure",
+        "author": "Colin Powell"
       },
       {
-        "quote": "Who are you going to believe, me or your own eyes?",
-        "author": "Groucho Marx"
+        "quote": "I can resist everything except temptation",
+        "author": "Oscar Wilde"
       }
     ]
   }
