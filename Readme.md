@@ -15,6 +15,10 @@ Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-curr
 ### Opera: https://addons.opera.com/en/extensions/details/week-ly-week-number
 
 ## Changelog
+### 1.2.3 - Bugfix for 15 quotes
+* Corrected a bug that would not show any quotes above 10
+* Following increase in the number of quotes
+
 ### 1.2.2 WK28 - 09 July
 * Week 28 quotes updated
 * Increased to 15 Weekly Quotes instead of previous 10
