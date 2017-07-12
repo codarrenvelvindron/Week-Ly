@@ -4,7 +4,7 @@ xhr.open("GET", Url, true);
 xhr.onreadystatechange = function() {
 	if (xhr.readyState == 4) {
 		var json = JSON.parse(xhr.responseText);
-		var i = Math.floor((Math.random() * 9) +1);  
+		var i = Math.floor((Math.random() * 14) +1);  
 		var quoteNew = json.quotestore.q[i].quote;  
 		el1 = document.getElementById('quote');
 		el1.textContent = quoteNew;
