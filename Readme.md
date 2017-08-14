@@ -15,6 +15,9 @@ Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-curr
 ### Opera: https://addons.opera.com/en/extensions/details/week-ly-week-number
 
 ## Changelog
+### 1.2.2 WK33 -14 August
+* Week 33 quotes updated
+
 ### 1.2.2 WK32 -06 August
 * Week 32 quotes updated
 
