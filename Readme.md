@@ -7,6 +7,8 @@ A simple Firefox Extension, designed to show you the currrent week of the year.
 
 Please feel free to report any bugs you may find as an issue or via Git Reports.
 
+Our quotes are all from www.brainyquote.com. All quotes are the property of their respective owners.
+
 Official Page: https://codarren.com/2017/05/week-ly-browser-extension-shows-current-week/
 
 ## Download
